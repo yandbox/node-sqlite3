@@ -1,0 +1,10 @@
+{
+  "name": "install-sqlite3",
+  "version": "1.0.0",
+  "description": "",
+  "repository": "yandbox/node-sqlite3",
+  "private": true,
+  "dependencies": {
+    "sqlite3": "^3.1.13"
+  }
+}
